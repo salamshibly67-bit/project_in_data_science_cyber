@@ -1,0 +1,11 @@
+pandas>=1.5
+numpy>=1.23
+scikit-learn>=1.2
+matplotlib>=3.6
+seaborn>=0.12
+scipy>=1.9
+jupyter>=1.0
+
+# Optional but recommended: enables the XGBoost training cell in the notebook
+# (the original article's headline model). All other cells run without it.
+# xgboost>=1.6
